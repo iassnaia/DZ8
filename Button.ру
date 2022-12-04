@@ -1,3 +1,3 @@
-1 import modyl1
-2 
-3 modyl1.button()
+ import modyl1
+
+ modyl1.button()
